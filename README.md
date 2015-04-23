@@ -1,8 +1,8 @@
 notebook
 ========
-##Main point
+## Main point
 I want to dump my whole life.
-###Class
+### Category
 * Diary
 * Program
 * Good idea
